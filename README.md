@@ -34,6 +34,23 @@ Write in the file `1-O`, the big O notations of the time complexity of the Inser
 *  in the worst case
 
 
+#  2. Selection sort
+
+[![Select-sort with Gypsy folk dance](https://youtu.be/Ns4TPTC8whw)](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+
+Write a function that sorts an array of integers in ascending order using the [Selection sort](https://alx-intranet.hbtn.io/rltoken/SEbg0fBEraioQcl-igvUSw) algorithm
+
+*  Prototype: `void selection_sort(int *array, size_t size);`
+*  You’re expected to print the `array` after each time you swap two elements (See example below)
+
+Write in the file `2-O`, the big O notations of the time complexity of the Selection sort algorithm, with 1 notation per line:
+
+*  in the best case
+*  in the average case
+*  in the worst case
+
+
+
 #  3. Quick sort
 
 [![Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://youtu.be/ywWBy6J5gz8)](https://www.youtube.com/watch?v=ywWBy6J5gz8)
