@@ -2,6 +2,11 @@
 
 
 # 0. Bubble sort
+<a href="https://www.youtube.com/watch?v=lyZ\
+QPjUT5B4&feature=emb_imp_woyt=Bubble-sort with Hungarian ("Csángó") folk dance
+" target="_blank"><img src="http://img.youtube.com/vi/Bubble-sort with Hungarian ("Csángó") folk dance/0.jpg"
+alt="Bubble-sort with Hungarian ("Csángó") folk dance="240" height="180" border="10" /></a>
+
 [![Bubble-sort with Hungarian ("Csángó") folk dance](https://youtu.be/lyZQPjUT5B4)](https://www.youtube.com/watch?v=lyZQPjUT5B4&feature=emb_imp_woyt)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://alx-intranet.hbtn.io/rltoken/awhP8BhtkGi-lwmMc2-KAw) algorithm
