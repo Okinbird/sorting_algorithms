@@ -2,12 +2,9 @@
 
 
 # 0. Bubble sort
-<!DOCTYPE html>
-<html lang="eng">
-<body>
-<iframe src="https://www.youtube.com/embed/lyZQPjUT5B4" allowfullscreen="" width="560" height="315" frameborder="0">
-</body
-</html>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4">
+</iframe>
 
 [![Bubble-sort with Hungarian ("Csángó") folk dance](https://youtu.be/lyZQPjUT5B4)](https://www.youtube.com/watch?v=lyZQPjUT5B4&feature=emb_imp_woyt)
 
