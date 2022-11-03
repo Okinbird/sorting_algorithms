@@ -32,4 +32,21 @@ Write in the file `1-O`, the big O notations of the time complexity of the Inser
 *  in the best case
 *  in the average case
 *  in the worst case
-	    
+
+
+#  3. Quick sort
+
+[![Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://youtu.be/ywWBy6J5gz8)](https://www.youtube.com/watch?v=ywWBy6J5gz8)
+
+Write a function that sorts an array of integers in ascending order using the [Quick sort](https://alx-intranet.hbtn.io/rltoken/_pBTrH0Xyo4BRmQn4CtnMg) algorithm
+
+*  Prototype: `void quick_sort(int *array, size_t size);`
+*  You must implement the `Lomuto` partition scheme.
+*  The pivot should always be the last element of the partition being sorted.
+*  You’re expected to print the `array` after each time you swap two elements (See example below)
+
+Write in the file `3-O`, the big O notations of the time complexity of the Quick sort algorithm, with 1 notation per line:
+
+*  in the best case
+*  in the average case
+*  in the worst case
