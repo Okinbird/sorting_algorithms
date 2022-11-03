@@ -3,8 +3,7 @@
 
 # 0. Bubble sort
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4">
-</iframe>
+![Bubble-sort](https://www.youtube.com/embed/lyZQPjUT5B4)
 
 [![Bubble-sort with Hungarian ("Csángó") folk dance](https://youtu.be/lyZQPjUT5B4)](https://www.youtube.com/watch?v=lyZQPjUT5B4&feature=emb_imp_woyt)
 
