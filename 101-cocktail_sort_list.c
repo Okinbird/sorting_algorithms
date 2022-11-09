@@ -88,7 +88,7 @@ shaken_not_stirred = false;
 for (shaker = shaker->prev; shaker != *list;
 shaker = shaker->prev)
 {
-if (shaker->n < shaker->prev->n
+if (shaker->n < shaker->prev->n)
 {
 swap_node_behind(list, &tail, &shaker);
 print_list((const listint_t *)*list);
