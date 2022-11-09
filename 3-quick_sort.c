@@ -17,7 +17,7 @@ tmp = *a;
 
 /**
  * partitioner - Defines array partition
- * @array: The array of integers to 
+ * @array: The array of integers to
  * @start: Start of array to part
  * @next: Next integer to part
  * @size: The size of the array
