@@ -38,7 +38,6 @@ if (j != i)
 swaper(&array[j], &array[i]);
 print_array(array, size);
 }
-
 j++;
 }
 }
