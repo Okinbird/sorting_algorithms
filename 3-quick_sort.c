@@ -9,7 +9,7 @@
 void swaper(int *a, int *b)
 {
 int tmp;
-  
+
 tmp = *a;
 *a = *b;
 *b = tmp;
@@ -60,7 +60,6 @@ return (j);
  *
  * Return: piv index
  */
-
 void sorter(int *array, ssize_t start, ssize_t next, size_t size)
 {
 if (start < next)
